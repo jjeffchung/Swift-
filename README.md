@@ -12,5 +12,5 @@ A collection of Swift 4 programs from my iPhone Application Programming Certific
 
 4) Planet and Sun in your palm Augmented Reality(AR) program
 
--An AR program which uses the AR Kit and showcases an Earth and Sun objects into the user's environment. 
+An AR program which uses the AR Kit and showcases an Earth and Sun objects into the user's environment. 
 
