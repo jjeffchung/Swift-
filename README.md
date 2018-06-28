@@ -1,5 +1,5 @@
 # Swift-
-A collection of my Swift programs made on Xcode from my iPhone Application Programming Certification Program at City College of San Francisco.
+A collection of my personal Swift projects and assignments from my iPhone Application Programming Certification Program at City College of San Francisco.
 
 1) Click Count program 
 - Enables the user to increment, decrement, clear and reset the counter label with respective UI buttons.
@@ -12,4 +12,7 @@ A collection of my Swift programs made on Xcode from my iPhone Application Progr
 
 4) Planet and Sun in your palm: Augmented Reality(AR) program
 - An AR program which uses the AR Kit and showcases an Earth and Sun objects into the user's environment. 
+
+5) Rock Paper Scissors (RPS) iOS Game 
+-An RPS game which lets the user play against the computer while keeping track of the Game's History with the user's Win and Loses. 
 
