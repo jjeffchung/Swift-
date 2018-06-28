@@ -15,5 +15,5 @@ A collection of my personal Swift projects and assignments from my iPhone Applic
 
 5) Rock Paper Scissors (RPS) iOS Game 
 
--An RPS game which lets the user play against the computer while keeping track of the Game's History with the user's Win and Loses. 
+- An RPS game which lets the user play against the computer while keeping track of the Game's History with the user's Win and Loses. 
 
