@@ -17,3 +17,6 @@ A collection of my personal Swift projects and assignments from my iPhone Applic
 
 - An RPS game which lets the user play against the computer while keeping track of the Game's History with the user's Win and Loses. 
 
+6) Photo Album App
+
+- A Photo Album app which I did while following an online tutorial and then added some additional features and edits on my own. The app needs the user's permission to access the Photo Library to display the on-device's images. The user can swipe up or down to go through the pictures and to double tap with two fingers to zoom in and out.
