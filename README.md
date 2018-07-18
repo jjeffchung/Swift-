@@ -20,3 +20,7 @@ A collection of my personal Swift projects and assignments from my iPhone Applic
 6) Photo Album App
 
 - A Photo Album app which I did while following an online tutorial and then added some additional features and edits on my own. The app needs the user's permission to access the Photo Library to display the on-device's images. The user can swipe up or down to go through the pictures and to double tap with two fingers to zoom in and out.
+
+7) Swift Core Animation App: Part 1
+
+- A Swift app which I did while following an online tutorial and then added some additional features and edits on my own. The app makes use of the CALayer Class to create some nice and cool animations. I designed a logo which the user can tap to trigger a pulsing animation, as well as a shaking animation with the TextField. 
