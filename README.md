@@ -1,5 +1,5 @@
 # Swift-
-A collection of my personal Swift projects and assignments from my iPhone Application Programming Certification Program at City College of San Francisco.
+A collection of my personal Swift projects and student assignments from my iPhone Application Programming Certification Program at City College of San Francisco.
 
 1) Click Count program 
 - Enables the user to increment, decrement, clear and reset the counter label with respective UI buttons.
