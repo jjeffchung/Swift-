@@ -21,6 +21,10 @@ A collection of my personal Swift projects and student assignments from my iPhon
 
 - A Photo Album app which I did while following an online tutorial and then added some additional features and edits on my own. The app needs the user's permission to access the Photo Library to display the on-device's images. The user can swipe up or down to go through the pictures and to double tap with two fingers to zoom in and out.
 
-7) Buttons and Animation App: Core Animation Part 1
+7) Buttons and Animation App with Core Animation 
 
-- A Swift app which I did while following an online tutorial and then added some additional features and edits on my own. The app makes use of the CALayer Class to create some nice and cool animations. I designed a logo which the user can tap to trigger a pulsing animation, as well as a shaking animation with the TextField. 
+- A Swift app which I did while following an online tutorial and then added some additional features and edits on my own. The app makes use of the CALayer Class to create some nice and interesting visual animations. I designed a logo which the user can tap to trigger a pulsing animation, as well as a shaking animation with the TextField. This app was for my personal development, where I was learning to implement Swift animations to improve and enhance the visual effects of an iOS application. 
+
+8) Animations and Transitions App
+
+- A Swift app which I did while following an online tutorial and then added some additional features and edits on my own. The user can zoom in, zoom out, move, adjust and set an image from the Photo Library to display. Additionally, the user can also click a UIButton to transition to the next View Controller which features a circular transition animation and another UIButton to revert back. This app was for my personal development, where I was learning to implement Swift animations to improve and enhance the visual effects of an iOS application. 
