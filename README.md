@@ -5,7 +5,7 @@ A collection of my personal Swift projects and student assignments from my iPhon
 - Enables the user to increment, decrement, clear and reset the counter label with respective UI buttons.
 
 2) MovieList Assignment: Hw11 MovieList1
-- An assignment where the task was to rewrite one of my earlier MovieList1 application, to implement the "Popular" movie cateogry from The Movie Database (TMDb) API. The new application will then feature popular movies from the TMDb database.
+- An assignment where the task was to rewrite one of my earlier MovieList1 Swift application, to implement the "Popular" movie cateogry from The Movie Database (TMDb) API. The new application will then feature popular movies from the TMDb database.
 
 3) Choose Your Own Adventure program 
 - Enables the user to progress through a short story with different choices enabled via 2 UI buttons on each ViewController. The app also makes use of a navigation controller. 
