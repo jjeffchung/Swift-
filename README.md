@@ -4,7 +4,7 @@ A collection of my personal Swift projects and student assignments from my iPhon
 1) Click Count program 
 - Enables the user to increment, decrement, clear and reset the counter label with respective UI buttons.
 
-2) MovieList Assignment
+2) MovieList Assignment: Hw11 MovieList1
 - An assignment where the task was to rewrite one of my earlier MovieList1 application, to implement the "Popular" movie cateogry from The Movie Database (TMDb) API. The new application will then feature popular movies from the TMDb database.
 
 3) Choose Your Own Adventure program 
