@@ -1,5 +1,5 @@
 # Swift-
-A collection of my personal Swift projects and student assignments from my iOS Application Programming Certification Program at City College of San Francisco.
+A collection of my personal Swift projects and student assignments from my iOS Application Programming Certification Program at City College of San Francisco. All projects have been updated to the new Swift 5 syntax. 
 
 
 1) Choose Your Own Adventure program 
